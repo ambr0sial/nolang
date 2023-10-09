@@ -34,7 +34,7 @@ python nolang.py
 # 📜 Documentation
 
 You can find the entire noLang's documentation below.
-<details open>
+<details>
 <summary>Open Documentation</summary>
 <br>
 </details>
