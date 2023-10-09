@@ -1,16 +1,17 @@
-# noLang
+<p align="center">
+  <a href="https://github.com/ambr0sial/nolang"><img src="assets/nolang.png" alt="noLang" width="256" /></a> 
+</p>
+<p align="center">
+  noLang is the ultimate programming language that does nothing, and it does it perfectly.
+</p>
 
-![noLang](assets/nolang.png)
-
-noLang is the ultimate programming language that does nothing, and it does it perfectly.
-
-## Features
+## ✨ Features
 
 - **Perfection:** noLang excels at doing absolutely nothing. You don't trust us? Write code, and see what happens! (nothing)
 
 - **Minimalistic Syntax:** While writing noLang, my idea was to make a minimalistic syntax. It recognizes only identifiers (variable names) but doesn't do anything with them.
 
-## Getting Started
+## 🚀 Getting Started
 
 To get started with noLang, follow these simple steps:
 
@@ -30,7 +31,7 @@ python nolang.py
 ```
 5. You can start writing in noLang!
 
-# Documentation
+# 📜 Documentation
 
 You can find the entire noLang's documentation below.
 <details open>
